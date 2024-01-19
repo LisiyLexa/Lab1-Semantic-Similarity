@@ -6,7 +6,13 @@
 
 ## Запуск кода
 
-Скачайте файл **similarity.ipynb** и запустите его с использованием python-ноутбука ([Jupyter](https://jupyter.org), [Google Colab](https://colab.research.google.com/), [Kaggle](https://www.kaggle.com/) или другие)
+Скачайте файл **similarity.ipynb** и запустите его с использованием python-ноутбука ([Jupyter](https://jupyter.org), [Google Colab](https://colab.research.google.com/), [Kaggle](https://www.kaggle.com/) или другие).
+
+Или можете открыть его сразу в Colab:
+<br><br>
+<a target="_blank" href="https://colab.research.google.com/github/LisiyLexa/Lab2-Semantic-Similarity/blob/main/similarity.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 В данном файле есть форма для проверки текстов:
 ![form](https://github.com/LisiyLexa/Lab1-Semantic-Similarity/assets/81087786/25d8a7b9-f243-42f4-ab67-86d36a0476e9)
